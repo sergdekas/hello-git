@@ -71,5 +71,3 @@
 + [Git Cheat Sheet 📄 (50 commands + PDF and poster)](https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
 
 + [GIT Cheat Sheet by IntelliPaat.com](https://intellipaat.com/blog/tutorial/devops-tutorial/git-cheat-sheet/?US)
-
-+ 
